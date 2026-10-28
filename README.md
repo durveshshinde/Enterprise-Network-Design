@@ -50,15 +50,3 @@ show mac address-table
 ```
 Used to inspect dynamically learned MAC addresses and the switch ports associated with them.
 
-## 📸 Project Screenshots
-
-Screenshots are available in the `screenshots/` folder.
-
-### Network Topology
-![Network Topology](screenshots/01-network-topology.png)
-
-### OSPF Routing Table
-![OSPF Routing Table](screenshots/02-ospf-routing-table.png)
-
-### Connectivity Tests
-![Connectivity
